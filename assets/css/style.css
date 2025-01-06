@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3B2F2F;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #3B2F2F;
+}
+
+.navbar-custom .nav-link.active {
+    font-weight: bold;
+}
